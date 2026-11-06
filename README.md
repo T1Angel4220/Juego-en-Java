@@ -186,15 +186,3 @@ li**lula b é
 * **Tokens siguientes:** La letra correspondiente a cada uno de los asteriscos en orden de aparición de izquierda a derecha.
 
 ---
-
-## 👤 Autor
-
-* **Angel Ayuquina** - [@T1Angel4220](https://github.com/T1Angel4220)
-* Estudiante / Desarrollador de Software enfocado en Estructuras de Datos, Algoritmos y Desarrollo Java.
-
----
-
-## 📄 Licencia
-
-Este proyecto se encuentra bajo la Licencia [MIT](https://opensource.org/licenses/MIT). Puedes utilizarlo, modificarlo y distribuirlo libremente para fines académicos y personales.
-
