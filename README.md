@@ -197,3 +197,4 @@ li**lula b é
 ## 📄 Licencia
 
 Este proyecto se encuentra bajo la Licencia [MIT](https://opensource.org/licenses/MIT). Puedes utilizarlo, modificarlo y distribuirlo libremente para fines académicos y personales.
+
