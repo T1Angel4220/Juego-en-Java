@@ -1,0 +1,74 @@
+# ==========================================
+# Java & Build Output
+# ==========================================
+*.class
+*.log
+*.ctxt
+build/
+dist/
+target/
+out/
+bin/
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+replay_pid*
+
+# ==========================================
+# NetBeans IDE
+# ==========================================
+**/nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# ==========================================
+# IntelliJ IDEA / Eclipse / VS Code
+# ==========================================
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.settings/
+.project
+.classpath
+
+# ==========================================
+# Environment Variables, Secrets & Credentials
+# ==========================================
+.env
+.env.*
+*.env
+*.key
+*.pem
+*.cer
+*.crt
+*.pfx
+*.p12
+credentials.json
+secrets/
+*.secret
+
+# ==========================================
+# Compressed Archives & Temp Files
+# ==========================================
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.bak
+*.tmp
+*.temp
+
+# ==========================================
+# Operating System Files
+# ==========================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
